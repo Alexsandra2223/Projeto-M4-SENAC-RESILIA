@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=39A4C4&size=35&center=true&vCenter=true&width=1000&lines=+Sistema+de+Acompanhamento+do+Resilia+-+SAR+)](https://git.io/typing-svg)
 
 Projeto Individual do Módulo 4 do Curso Programadores Carioca - SENAC/Resilia
 
@@ -20,6 +20,7 @@ Quais são os principais campos e tipos?
 ```sh
 
 Os principais campos são os ID de cada entidade (as chaves primárias). A maioria dos campos são INT. 
+
 ```
 
 Como essas entidades estão relacionadas?
